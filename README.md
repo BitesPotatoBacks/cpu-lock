@@ -1,4 +1,4 @@
-# CPU-Lock
+# cpu-Lock
 Lock a terminal command to the efficiency or performance cores on a big.LITTLE ARM processor (Designed for Apple Silicon).
 
 ## Usage
